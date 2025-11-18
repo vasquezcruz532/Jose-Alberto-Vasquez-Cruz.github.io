@@ -1,3 +1,3 @@
-# Practica con github
+#Practica con github
 ---
-Prueva de readme
+Esta es una prueva para aprender a usar github.
